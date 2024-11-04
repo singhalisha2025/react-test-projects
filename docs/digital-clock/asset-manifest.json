@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.20cef991.css",
+    "main.js": "./static/js/main.e2cb0d34.js",
+    "static/media/DS-DIGIB.TTF": "./static/media/DS-DIGIB.81b4bd9230069b72f5e8.TTF",
+    "index.html": "./index.html",
+    "main.20cef991.css.map": "./static/css/main.20cef991.css.map",
+    "main.e2cb0d34.js.map": "./static/js/main.e2cb0d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20cef991.css",
+    "static/js/main.e2cb0d34.js"
+  ]
+}
